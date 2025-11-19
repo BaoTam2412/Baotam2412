@@ -23,7 +23,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 ---
 
 **My Main Tech Stack:**
-* **Languages:** HTML, CSS, JAVASCRIPT, PYTHON, SQL, JAVA. 
+* **Languages:** HTML, CSS, Javascript, Python, SQL, Java. 
 * **Frameworks:** React, Tailwind CSS, Node.js, Django, Next.js
 * **Styling:** CSS, Tailwind CSS
 
