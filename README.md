@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Evanarus, or you can call me Vinh Bao Tam, a student of Thuyloi University, Ho Chi Minh City Campus
+
+I love turning innovative concepts into clean and functional digital experiences.
+
+If an idea pops into my head, chances are I'll build it and ship it.
+
+---
+
+**My Main Tech Stack:**
+* **Languages:** HTML, CSS, JAVASCRIPT, PYTHON, SQL, JAVA. 
+* **Frameworks:** React, Tailwind CSS, Node.js, Django, Next.js
+* **Styling:** CSS, Tailwind CSS
+
+I'm always open to collaborations and connecting with new people.
+
+---
