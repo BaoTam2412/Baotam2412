@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Evanarus, or you can call me Vinh Bao Tam, a student of Thuyloi University - Ho Chi Minh City Campus
+I'm MaTT, or you can call me Vinh Bao Tam, a student of Thuyloi University - Ho Chi Minh City Campus
 
 I love turning innovative concepts into clean and functional digital experiences.
 
