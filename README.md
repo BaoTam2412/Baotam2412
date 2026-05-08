@@ -23,10 +23,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 ---
 
 **My Main Tech Stack:**
-* **Languages:** HTML, CSS, Javascript, Python, SQL and Java. 
-* **Frameworks:** React, Tailwind CSS, Node.js, Django and Next.js
-* **Styling:** Tailwind CSS
-
+* **Languages:** Java, PostgreSQL, MongoDB, HTML, CSS, JavaScript  
+* **Frameworks:** Java Spring, Hibernet, JPA, React
 I'm always open to collaborations and connecting with new people.
-
 ---
