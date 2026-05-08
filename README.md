@@ -24,6 +24,6 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 **My Main Tech Stack:**
 * **Languages:** Java, PostgreSQL, MongoDB, HTML, CSS, JavaScript  
-* **Frameworks:** Java Spring, Hibernet, JPA, React.
+* **Frameworks:** Java Spring, Hibernate, JPA, React.
 ---
 I'm always open to collaborations and connecting with new people.
